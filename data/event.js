@@ -87,19 +87,19 @@ const evento = {
       lado: "right"
     },
     {
-      hora: "10:00  pm",
+      hora: "09:30  pm",
       nombre: "Cena",
       icono: "assets/img/icons/cena.gif",
       lado: "left"
     },
     {
-      hora: "12:00 am",
+      hora: "10:30 am",
       nombre: "Vals",
       icono: "assets/img/icons/vals.gif",
       lado: "right"
     },
     {
-      hora: "01:00 am",
+      hora: "01:30 am",
       nombre: "Pista de Baile",
       icono: "assets/img/icons/baile.gif",
       lado: "left"
@@ -120,9 +120,7 @@ const evento = {
     reglas: [
       "Se reserva el color lila para la quinceañera",
       "Vestimenta formal",
-      "No globos",
       "Llegar puntuales",
-      "No fuegos artificiales",
       "Queda estrictamente prohibido fumar dentro del salón"
     ]
   },
