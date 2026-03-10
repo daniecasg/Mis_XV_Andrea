@@ -61,7 +61,7 @@ const evento = {
      WHATSAPP
   ========================= */
   whatsapp: {
-    telefono: "525535031322",
+    telefono: "525638910737",
     mensajeConfirmacion: "🎉 ¡Hola! Somos la familia [aqui coloca el nombre] y con mucho gusto queremos confirmar nuestra asistencia a los XV años de {evento} 🎈👑🎊"
   },
 
